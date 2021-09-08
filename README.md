@@ -1,1 +1,1 @@
-# pokemon_1
+# poke api, consultas con ajax y javascript.
